@@ -1,0 +1,9 @@
+Escreva (numero)
+Leia (numero){
+    se(numero>0)
+    Escreva resultado = positivo
+    se (numero<0)
+    Escreva resultado = negativo
+    se (numero=0)
+    Escreva resultado = zero
+}

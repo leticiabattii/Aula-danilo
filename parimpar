@@ -1,0 +1,8 @@
+função dividir (a){
+    escreva resultado= a%2 
+    se (resultado =0)
+    escreva resultado = par
+    senão                                                                                                           
+    escreva resultado = ímpar 
+    }
+    
