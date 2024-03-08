@@ -1,0 +1,3 @@
+função dividir (a,b){
+    Escreva resultado= a/b
+}
