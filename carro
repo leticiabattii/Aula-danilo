@@ -1,0 +1,3 @@
+let carro = {cor:azul, ano:2014, marca:fiat, potencia:2.0}
+
+console.log(carro.cor)
